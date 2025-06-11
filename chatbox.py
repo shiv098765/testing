@@ -1,7 +1,7 @@
 from langchain_core.messages import SystemMessage,HumanMessage,AIMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 from dotenv import load_dotenv
-from playsound import playsound
+
 
 load_dotenv()
 
